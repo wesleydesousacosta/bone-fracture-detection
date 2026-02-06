@@ -1,5 +1,3 @@
-# bone-fracture-detection
-
 # 🦴 Bone Fracture Detection with Deep Learning
 
 Sistema de detecção automática de fraturas ósseas em imagens de raio-X utilizando Deep Learning (CNN + Transfer Learning).
